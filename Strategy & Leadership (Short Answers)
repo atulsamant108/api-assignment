@@ -1,0 +1,28 @@
+1. Sprint velocity is dropping due to flaky automation tests. How will you handle this?
+
+Flaky tests can reduce team confidence and slow down delivery, so I would address this with a structured approach.
+First, I would identify the root cause by analyzing failure patterns — whether they are due to timing issues, unstable test data, environment instability, or weak locators in UI tests.
+Next, I would stabilize the test suite by:
+1. Replacing hard waits with proper synchronization
+2. Improving locator strategies
+3. Ensuring consistent test data setup
+4. Mocking external dependencies where possible
+I would then isolate flaky tests by tagging them and temporarily removing them from blocking CI pipelines, while tracking them separately for fixes.
+From a team perspective, I would assign ownership of flaky tests, encourage code reviews for test scripts, and ensure best practices are followed.
+Finally, I would monitor flaky test trends and aim to reduce them incrementally each sprint
+
+
+2. During production release, critical bugs were missed in QA. How will you fix process gaps?
+
+In this situation, I would focus on both immediate resolution and long-term improvement.
+First, I would prioritize fixing the critical issues by collaborating closely with developers, validating fixes quickly, and ensuring proper regression testing before releasing patches.
+Then, I would conduct a root cause analysis (RCA) to understand why these defects were missed — whether due to gaps in test coverage, unclear requirements, or limitations in automation.
+Based on findings, I would:
+1. Enhance test coverage by adding missing scenarios, including edge and negative cases
+2. Strengthen automation for critical user flows
+3. Improve test planning and review processes
+4. Introduce release readiness checklists
+
+I would also promote a shift-left approach, involving QA earlier in requirement discussions to catch issues sooner.
+
+Finally, I would track defect leakage metrics and continuously refine the process through retrospectives.

@@ -1,0 +1,73 @@
+
+3. Different types of exceptions you come across while doing the automation.
+4.There is one login page and you have to test different combinations of username and password stored in Excel file.
+ Write a code for it. This is data-driven testing using parameterized concept.
+5. What is the difference between assert and verify in test automation?
+6. What is the difference between a test case and a test scenario?
+7. What is the difference between a bug and a defect in software testing?
+8. What is the difference between regression testing and retesting?
+9. What is the difference between functional testing and non-functional testing?
+10. What is the difference between black box testing and white box testing?
+11. What is shadow DOM? Why it is used most? why elements are placed inside it?
+12. There is a client who wants to test and automate single-page application. He doesn't want to follow
+page object model because it will not be useful. So what approach will you take? What are the parameters
+you will consider before automating the application?
+13. With respect to the above question, before going for the framework, as an automation lead,
+what will be your approach?
+14. fixtures in pytest, what are they and how do you use them? Different scope levels of fixtures and their importance.
+15. Difference between method overloading and method overriding.
+16. Difference between inheritance and super keyword: If inheritance does the same thing, then why super keyword is needed?
+17. What is constructor? What is use of init method? Explain it in detail.
+18. Open Expedia.com site. Click on stays. What are the test scenarios and test cases here? What is non-functional testing here?
+19. What are your strengths and weaknesses?
+20. When the application goes into the production, how will you monitor whether it's working fine?
+21. Different Agile ceremonies and their importance.
+22. Difference between mongoDB and MySQL.
+23. What is the difference between a NoSQL database and a relational database?
+24. Explain ur current project and your role in it.? which domain it is?
+25. Aws services you have worked on
+26. Basic Linux commands you know.
+27. How you take care of new requirements, their scope in project, testing, etc.?
+28. difference btn threads and processes
+29. How you perform cross-browser testing?
+30. What is the location of conftest.py file?
+31. How you perform parallel test execution?
+32. What is pytest.ini file? How we import markers from this file into test suite?
+33. How you are running your tests in Jenkins? How you are doing the integration part?
+34. Which exceptions did you get when running the automation?
+35. requirement traceability matrix, what is it and how do you create it?
+36. Write a simple program to read data from Excel file, like username and password, put it in login page,
+and take screenshot if it fails.
+37. Write a program to find duplicates in a list.
+38. Difference between put and get method
+39. difference between smoke, sanity and regression testing
+40. explain defect life cycle
+41. explain concept of parameterization in test automation
+42. different http error codes with methods
+43. Infosys interview was mostly focused as a team lead. Figure out some questions as a team lead.
+44. Can dictionary be used as a key for another dictionary? Show with program if possible.
+45. Exercise creating XPaths for different elements.
+46. Learn backend automation as well along with front-end.
+47. What is performance testing? Which tools are used for it?
+48. What is API testing? How you did it with the help of database?
+49. Have you done mobile application testing?
+50. Any updates on database testing?
+51. Suggestion from interviewer---> Don't be limited to UI testing only, explore mobile database API testing as well.
+52. How did you do the negative testing?
+53. Difference between staging and production environment.
+54. If you encounter a defect in staging just one day before the build goes to production, what will be your stand on it?
+55. Write a Selenium code for valid and invalid username and password.
+56. Write a Selenium code to count number of radio buttons on a page.
+57. Different HTTP methods in API testing.
+58. Folder structure in your framework.
+59. Which keywords used for inheritance ? How did you implement inheritance?
+60. Different Waits in Selenium
+61. Different Agile ceremonies.
+62. You said you are managing a team of three people, so which kind of suggestions you were giving to your team
+members? Did you do any code review?
+63. Which Python concepts you used in automation?
+64.
+
+
+
+

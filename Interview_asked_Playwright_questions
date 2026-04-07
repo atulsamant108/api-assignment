@@ -1,0 +1,12 @@
+1. How setup and teardown works in Playwright?
+2. How locator strategy works in Playwright other than Selenium?
+3. Difference between locators and query selector in playwright.
+4. Advantages of Playwright over Selenium
+5. What rebase command does in GitHub?
+6. Difference between sync and async in playwright.
+7. Explain folder structure in Playwright project.
+8. How authentication is maintained in playwright?
+9. How you are verifying API responses in UI automation in Playwright?
+10. The difference between soft and hard assert.
+11. difference between fill() and type() and press_sequentially() in playwright.
+12.

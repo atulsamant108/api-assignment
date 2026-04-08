@@ -66,7 +66,14 @@ and take screenshot if it fails.
 62. You said you are managing a team of three people, so which kind of suggestions you were giving to your team
 members? Did you do any code review?
 63. Which Python concepts you used in automation?
-64.
+===================below are wipro interview questions===================
+1. BDD framework using python
+2. find max number without using max function a = [120, 350, 450.1250, 90, 5]
+3. So the question is if we want to execute single scenario multiple times in BDD Cucumber, then what should we do?
+
+5. difference between 401, 402, and 403 status codes.
+6. Difference between POST, PUT, and PATCH methods.
+7. Git code is there on the remote branch and I need to pull it in my local. So which first command I will fire in my local?
 
 
 

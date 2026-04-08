@@ -1,0 +1,19 @@
+1.Find second highest salary from Employee table and who earns second highest salary
+
+Emp id	Emp name	Salary
+Dept naame
+
+1	Animesh	100000	Development
+2	Sagar	70000	Testing
+3	Ankur	50000	Testing
+4	Rasika	60000	Admin
+5	Rahul	55000	HR
+6
+Anita
+	75000	Testing
+7	Jyoti	80000	Testing
+8	Rajesh	90000	Development
+9	Sanjay	150000	Development
+10	Suresh	120000	Development
+
+find Second highest salary.

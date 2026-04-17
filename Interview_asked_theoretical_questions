@@ -74,7 +74,15 @@ members? Did you do any code review?
 5. difference between 401, 402, and 403 status codes.
 6. Difference between POST, PUT, and PATCH methods.
 7. Git code is there on the remote branch and I need to pull it in my local. So which first command I will fire in my local?
-
+===================below are siemens interview questions======================
+1. different non functional testing u did
+=====================Altemetric interview questions======================
+1. LEARN BDD--SUGGESTION FROM INTERVIEWER
+2. res "ggswugsasaewqrhds ahegaduwakd"
+get count of each character in dictionary format
+3. So what is the difference between PUT and PATCH in REST API?
+4. Difference between truncate and delete in SQL.
+5. How to check if two strings are Anagrams. write a python program so that even if I change strings during runtime, it should work
 
 
 

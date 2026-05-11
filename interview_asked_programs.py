@@ -452,3 +452,28 @@ a. write a code to print  "gte": "2025-01-02T12:32:45"
 b. Find Count of keys whos value datatype is string for above json
 3. in a flipcart website, if search something in searchbox, write a locator that will always select third option from searchbox
 '''
+#=====================Accionlabs - 11 May=================
+'''
+s1 = "ABCD", s2 = "CDAB" So here we need to check whether S2 is the rotation of S1 string, and if yes, then in which 
+rotation of S1 we will get S2.
+'''
+s1 = "ABCD"
+s2 = "CDAB"
+
+found = False
+
+for i in range(len(s1)):
+
+    # Rotate string
+    rotated = s1[i:] + s1[:i]
+
+    # Check match
+    if rotated == s2:
+        print("S2 is rotation of S1")
+        print("Rotation count:", i)
+        found = True
+        break
+
+if not found:
+    print("S2 is not rotation of S1")
+#===============================================================================================
